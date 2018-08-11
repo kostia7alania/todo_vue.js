@@ -36,4 +36,4 @@ Non-Functional Requirements:
 it could be located on github(preffered) or folder with .git metadata.
 ```
 
-## [LIVE PREVIEW (e.g. DEMO): kostia7alania.github.io/todo_vue.js/](https://kostia7alania.github.io/todo_vue.js/) 
+## [LIVE PREVIEW (i.e. DEMO): kostia7alania.github.io/todo_vue.js/](https://kostia7alania.github.io/todo_vue.js/) 
