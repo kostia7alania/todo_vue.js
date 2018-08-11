@@ -39,3 +39,6 @@ Non-Functional Requirements:
 
 * Additional plus if test task will be presented as git repository with history of changes. it could be located on github(preffered) or folder with .git metadata.
 ```
+
+#LIVE PREVIEW (e.g. DEMO):
+ kostia7alania.github.io/todo_vue.js/
